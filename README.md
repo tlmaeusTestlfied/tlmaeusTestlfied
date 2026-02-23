@@ -1,5 +1,5 @@
 ## Taps mic. Is this on
-Dirk_Strider(4).webp
+I'm trying to figure this stuff out. Bear with me. 
 <!--
 **tlmaeusTestlfied/tlmaeusTestlfied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
