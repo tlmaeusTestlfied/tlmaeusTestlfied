@@ -1,4 +1,3 @@
-## Taps mic. Is this on
 I'm trying to figure this stuff out. Bear with me. 
 <!--
 **tlmaeusTestlfied/tlmaeusTestlfied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
