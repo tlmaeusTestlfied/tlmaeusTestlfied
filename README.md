@@ -1,5 +1,5 @@
-## Taps mic. Is this on. 
-https://github.com/tlmaeusTestlfied/tlmaeusTestlfied/blob/main/Dirk_Strider(4).webp?raw=true
+## Taps mic. Is this on
+Dirk_Strider(4).webp
 <!--
 **tlmaeusTestlfied/tlmaeusTestlfied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
